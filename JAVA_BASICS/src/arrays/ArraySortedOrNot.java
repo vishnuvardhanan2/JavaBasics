@@ -15,6 +15,9 @@ public class ArraySortedOrNot {
 		int[] ar= {1,2,3,4,5,7};
 		int m= ar.length;
 		System.out.println(calc(ar,m));
+
+
+		System.out.println(calc(ar,m));
 	}
 
 }
